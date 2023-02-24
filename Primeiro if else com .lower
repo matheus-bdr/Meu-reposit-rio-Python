@@ -1,0 +1,8 @@
+print("Meu nome é x \n___________________\nEste um programa aleatório!\n_____________________ ")
+
+var = input("voce deseja ver esse conteudo?\n(responda om y ou n): ")
+
+if var.lower() =='n' :
+  print("\n\nfim do programa")
+else:
+  print("\n\nOlá aluno, espero que esteja bem\n\no seu resultado foi o nível x\n\nVocê vai receber um email da plataforma Teachable para iniciar seus estudos no Inglês." )
